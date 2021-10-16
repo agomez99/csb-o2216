@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "https://agomez99.github.io/csb-o2216/static/css/main.a056ab23.chunk.css",
+    "main.js": "https://agomez99.github.io/csb-o2216/static/js/main.91e1e30b.chunk.js",
+    "main.js.map": "https://agomez99.github.io/csb-o2216/static/js/main.91e1e30b.chunk.js.map",
+    "runtime-main.js": "https://agomez99.github.io/csb-o2216/static/js/runtime-main.035bda78.js",
+    "runtime-main.js.map": "https://agomez99.github.io/csb-o2216/static/js/runtime-main.035bda78.js.map",
+    "static/js/2.76d4f2fd.chunk.js": "https://agomez99.github.io/csb-o2216/static/js/2.76d4f2fd.chunk.js",
+    "static/js/2.76d4f2fd.chunk.js.map": "https://agomez99.github.io/csb-o2216/static/js/2.76d4f2fd.chunk.js.map",
+    "index.html": "https://agomez99.github.io/csb-o2216/index.html",
+    "precache-manifest.5fb84e872d470d40a01ce6026dd42e5e.js": "https://agomez99.github.io/csb-o2216/precache-manifest.5fb84e872d470d40a01ce6026dd42e5e.js",
+    "service-worker.js": "https://agomez99.github.io/csb-o2216/service-worker.js",
+    "static/css/main.a056ab23.chunk.css.map": "https://agomez99.github.io/csb-o2216/static/css/main.a056ab23.chunk.css.map",
+    "static/js/2.76d4f2fd.chunk.js.LICENSE.txt": "https://agomez99.github.io/csb-o2216/static/js/2.76d4f2fd.chunk.js.LICENSE.txt",
+    "static/media/50-tobylane.mp3": "https://agomez99.github.io/csb-o2216/static/media/50-tobylane.a1913f88.mp3",
+    "static/media/cali-wataboi.mp3": "https://agomez99.github.io/csb-o2216/static/media/cali-wataboi.6a28325f.mp3",
+    "static/media/iwonder-dreamheaven.mp3": "https://agomez99.github.io/csb-o2216/static/media/iwonder-dreamheaven.01f6eb99.mp3",
+    "static/media/next.60585ee7.svg": "https://agomez99.github.io/csb-o2216/static/media/next.60585ee7.svg",
+    "static/media/pause.28d702d3.svg": "https://agomez99.github.io/csb-o2216/static/media/pause.28d702d3.svg",
+    "static/media/play.359e87c7.svg": "https://agomez99.github.io/csb-o2216/static/media/play.359e87c7.svg",
+    "static/media/prev.a5790adb.svg": "https://agomez99.github.io/csb-o2216/static/media/prev.a5790adb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035bda78.js",
+    "static/js/2.76d4f2fd.chunk.js",
+    "static/css/main.a056ab23.chunk.css",
+    "static/js/main.91e1e30b.chunk.js"
+  ]
+}
